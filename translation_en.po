@@ -92,13 +92,19 @@ msgctxt "{\"cxt\": \"page_heading\", \"id\": 117382527, \"checksum\": 2466443545
 msgid "Nachhaltigkeit"
 msgstr "Sustainability"
 
+msgctxt "{\"cxt\": \"page_heading\", \"id\": 117382527, \"checksum\": 2466443545}"
+msgid "Nachhaltigkeit2"
+msgstr "Sustainability2"
+
 msgctxt "{\"cxt\": \"page_heading\", \"id\": 117382528, \"checksum\": 1376066085}"
 msgid "Abschluss"
 msgstr "Conclusion"
 
 msgctxt "{\"cxt\": \"page_heading\", \"id\": 117382529, \"checksum\": 2685149773}"
-msgid "Ende"
+msgid "Ende1"
 msgstr "The end"
 
-
+msgctxt "{\"cxt\": \"page_heading\", \"id\": 117382529, \"checksum\": 2685149773}"
+msgid "Ende2"
+msgstr "The end2"
 
