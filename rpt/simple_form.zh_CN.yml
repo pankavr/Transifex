@@ -1,0 +1,23 @@
+zh_CN:
+  simple_form:
+    "yes": '是的'
+    "no": '不'
+    required:
+      text: '必需的'
+      mark: '*'
+      # You can uncomment the line below if you need to overwrite the whole required html.
+      # When using html, text and mark won't be used.
+      # html: '<abbr title="required">*</abbr>'
+    error_notification:
+      default_message: "请查看以下问题："
+    labels:
+      conversation_builder:
+        product: 产品
+        transaction_types: 交易类型
+        product_name: 输入您的产品名称
+        program_name: 输入您的程序名称
+        conversation_name: 命名您的对话
+        age_group: "我们应该针对哪个年龄段进行优化？"
+        income_level: "我们应该针对哪个收入水平进行优化？"
+        employment_types: "我们应该针对哪些就业类型进行优化？"
+        account_statuses: "我们应该针对哪些帐户状态进行优化？"
