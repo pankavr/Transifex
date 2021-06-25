@@ -2,6 +2,7 @@ fr:
   simple_form:
     "yes": 'Oui'
     "no": 'Non'
+    "yesno": 'Oui Non'    
     required:
       text: 'obligatoire'
       mark: '*'
@@ -16,8 +17,8 @@ fr:
         transaction_types: Types de transaction
         product_name: Entrez le nom de votre produit
         program_name: Entrez le nom de votre programme
-        conversation_name: ""
-        age_group: ""
-        income_level: ""
-        employment_types: ""
-        account_statuses: ""
+        conversation_name: Nommez votre conversation
+        age_group: "Pour quels âges devrions-nous optimiser ?"
+        income_level: "Pour quel niveau de revenu devrions-nous optimiser ?"
+        employment_types: "Pour quels types d&#39;emplois devrions-nous optimiser ?"
+        account_statuses: "Pour quels statuts de compte devrions-nous optimiser ?"
