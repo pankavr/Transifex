@@ -1,6 +1,6 @@
 fr:
   simple_form:
-    "yes": 'Oui'
+    "yes": 'Oui_panos'
     "no": 'Non'
     "yesno": 'Oui Non'    
     required:
