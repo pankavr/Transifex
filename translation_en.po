@@ -100,5 +100,8 @@ msgctxt "{\"cxt\": \"page_heading\", \"id\": 117382529, \"checksum\": 2685149773
 msgid "Ende"
 msgstr "The end"
 
+msgctxt "{\"cxt\": \"page_heading\", \"id\": 117382529, \"checksum\": 2685149773}"
+msgid "End2"
+msgstr "The end2"
 
 
