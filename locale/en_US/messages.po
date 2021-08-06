@@ -1,0 +1,1178 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-10-24 20:03-0400\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en_US\n"
+"Mime-Version: 1.0\n"
+"Plural-Forms: \n"
+"X-Generator: @lingui/cli\n"
+
+#: src/Screens/EditProfileScreen.js:383
+msgid "@example"
+msgstr "@example"
+
+#: src/Screens/EditProfileScreen.js:327
+msgid "About You"
+msgstr "About You"
+
+#: src/Screens/MoreTab/AccountSettingsScreen.js:51
+#: src/Screens/MoreTab/SettingsScreen.js:118
+msgid "Account"
+msgstr "Account"
+
+#: src/Screens/TeamInsights/TeamMember.js:18
+msgid "Active"
+msgstr "Active"
+
+#: src/Screens/TeamInsights/TeamInsightReportsScreen.js:76
+msgid "Active Members"
+msgstr "Active Members"
+
+#: src/Screens/MoreTab/AccountSettingsScreen.js:123
+msgid "Add"
+msgstr "Add"
+
+#: src/strings.js:84
+msgid "Add Products"
+msgstr "Add Products"
+
+#: src/strings.js:68
+msgid "All Time"
+msgstr "All Time"
+
+#: src/Containers/Marketing/Marketing.js:38
+msgid "April"
+msgstr "April"
+
+#: src/Components/Modals/MoreModal.js:75
+#: src/Screens/Board/EditBoardScreen.js:132
+msgid "Archive Board"
+msgstr "Archive Board"
+
+#: src/Components/Modals/BoardModeModal.js:37
+msgid "Archived Boards"
+msgstr "Archived Boards"
+
+#: src/strings.js:57
+msgid "Archiving Board"
+msgstr "Archiving Board"
+
+#: src/Screens/Board/EditBoardScreen.js:136
+msgid ""
+"Archiving will remove this board from your Boards list and cannot be visible"
+" on your microsite again. This can’t be undone"
+msgstr ""
+"Archiving will remove this board from your Boards list and cannot be visible"
+" on your microsite again. This can’t be undone"
+
+#: src/Containers/Board/SaveCuratedBoard.js:103
+#: src/Screens/MoreTab/DeleteAccountScreen.js:55 src/strings.js:39
+msgid "Are you sure?"
+msgstr "Are you sure?"
+
+#: src/Containers/Marketing/Marketing.js:42
+msgid "August"
+msgstr "August"
+
+#: src/Screens/Insights/CommissionHistoryScreen.js:92
+#: src/Screens/Insights/ProfileInsightScreen.js:106
+#: src/Screens/Insights/SalesHistoryScreen.js:87
+msgid "Average Cart"
+msgstr "Average Cart"
+
+#: src/Screens/Board/EditBoardScreen.js:58
+msgid "Board Cover Image"
+msgstr "Board Cover Image"
+
+#: src/Components/Modals/BoardInsightModal.js:26
+#: src/Components/Modals/BoardInsightProfileModal.js:52
+msgid "Board Insights"
+msgstr "Board Insights"
+
+#: src/Screens/Board/EditBoardScreen.js:65
+#: src/Screens/Board/SaveCuratedBoardScreen.js:37
+msgid "Board Name"
+msgstr "Board Name"
+
+#: src/Screens/Insights/ProfileInsightScreen.js:71
+msgid "Board Overview"
+msgstr "Board Overview"
+
+#: src/Components/Modals/BoardModeModal.js:26
+#: src/Navigators/MainTabNavigator.js:37
+msgid "Boards"
+msgstr "Boards"
+
+#: src/Screens/MoreTab/BusinessTypesScreen.js:58
+#: src/Screens/MoreTab/ChangeVATScreen.js:122
+msgid "Business Type"
+msgstr "Business Type"
+
+#: src/strings.js:91
+msgid "Cancel"
+msgstr "Cancel"
+
+#: src/Screens/Authentication/ResetPasswordScreen.js:73
+msgid "Change Password"
+msgstr "Change Password"
+
+#: src/Screens/EditProfileScreen.js:337
+msgid "Change Url"
+msgstr "Change Url"
+
+#: src/Screens/MoreTab/AccountSettingsScreen.js:103
+msgid "Change password"
+msgstr "Change password"
+
+#: src/strings.js:43
+msgid "Click copy to get share link"
+msgstr "Click copy to get share link"
+
+#: src/Screens/Authentication/LoginScreen.js:105
+msgid "Click here to Learn More!"
+msgstr "Click here to Learn More!"
+
+#: src/Components/Modals/BoardInsightModal.js:49
+msgid "Clicks"
+msgstr "Clicks"
+
+#: src/Screens/Insights/CommissionHistoryScreen.js:66
+msgid "Commission History"
+msgstr "Commission History"
+
+#: src/Screens/Insights/ProfileInsightScreen.js:134
+msgid "Commissions"
+msgstr "Commissions"
+
+#: src/Screens/Onboarding/PrivacyAgreementsScreen.js:109
+msgid "Complete"
+msgstr "Complete"
+
+#: src/Screens/MoreTab/ChangePasswordScreen.js:135
+msgid "Confirm New Password"
+msgstr "Confirm New Password"
+
+#: src/Screens/Authentication/SignUpScreen.js:111
+msgid "Confirm Password"
+msgstr "Confirm Password"
+
+#: src/Screens/MoreTab/ChangePasswordScreen.js:142
+msgid "Confirm your new password"
+msgstr "Confirm your new password"
+
+#: src/Components/Modals/RegisterForPayoneerModal.js:108
+msgid "Congratulations on making a new sale!"
+msgstr "Congratulations on making a new sale!"
+
+#: src/Screens/ShareScreen.js:158
+msgid "Consent"
+msgstr "Consent"
+
+#: src/Screens/MoreTab/ContactsScreen.js:60
+#: src/Screens/MoreTab/SettingsScreen.js:149
+msgid "Contacts"
+msgstr "Contacts"
+
+#: src/Screens/Authentication/ForgotPasswordScreen.js:70
+#: src/Screens/Onboarding/ProgramRulesVideoScreen.js:81
+msgid "Continue"
+msgstr "Continue"
+
+#: src/Screens/Onboarding/OnboardingVideoScreen.js:71
+msgid "Continue to Sign Up"
+msgstr "Continue to Sign Up"
+
+#: src/Components/Modals/BoardInsightModal.js:81
+#: src/Components/Modals/BoardInsightProfileModal.js:114
+msgid "Conversion"
+msgstr "Conversion"
+
+#: src/Screens/Insights/ProfileInsightScreen.js:90
+msgid "Conversion Rate"
+msgstr "Conversion Rate"
+
+#: src/Screens/ShareScreen.js:98 src/strings.js:44
+msgid "Copied"
+msgstr "Copied"
+
+#: src/Screens/ShareScreen.js:100
+msgid "Copy"
+msgstr "Copy"
+
+#: src/strings.js:42
+msgid "Copy Share Link"
+msgstr "Copy Share Link"
+
+#: src/Screens/ShareScreen.js:77
+msgid "Copy to Clipboard"
+msgstr "Copy to Clipboard"
+
+#: src/Screens/Onboarding/SelectCountryScreen.js:27
+msgid "Country"
+msgstr "Country"
+
+#: src/strings.js:47
+msgid "Cover Image"
+msgstr "Cover Image"
+
+#: src/strings.js:85
+msgid "Create A New Board"
+msgstr "Create A New Board"
+
+#: src/Screens/Authentication/LoginScreen.js:94
+msgid "Create an Account"
+msgstr "Create an Account"
+
+#: src/Navigators/MainTabNavigator.js:63
+msgid "Curate"
+msgstr "Curate"
+
+#: src/Screens/ProfileScreen.js:53
+msgid ""
+"Curate your own Boards. After they’ve been curated they will appear on your "
+"profile/MyStore."
+msgstr ""
+"Curate your own Boards. After they’ve been curated they will appear on your "
+"profile/MyStore."
+
+#: src/Screens/MoreTab/ChangePasswordScreen.js:101
+msgid "Current Password"
+msgstr "Current Password"
+
+#: src/Screens/Insights/ProfileInsightScreen.js:55
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: src/Containers/Marketing/Marketing.js:46
+msgid "December"
+msgstr "December"
+
+#: src/Screens/Board/DeleteBoardItemsScreen.js:43
+msgid "Delete"
+msgstr "Delete"
+
+#: src/Screens/MoreTab/AccountSettingsScreen.js:198
+#: src/Screens/MoreTab/DeleteAccountScreen.js:50
+msgid "Delete Account"
+msgstr "Delete Account"
+
+#: src/Screens/MoreTab/AccountSettingsScreen.js:201
+msgid "Delete your account and data"
+msgstr "Delete your account and data"
+
+#: src/Screens/Board/EditBoardScreen.js:82
+#: src/Screens/Board/SaveCuratedBoardScreen.js:51
+msgid "Description"
+msgstr "Description"
+
+#: src/Screens/EditProfileScreen.js:285
+msgid "Display Name"
+msgstr "Display Name"
+
+#: src/Screens/MoreTab/DocumentationScreen.js:29
+#: src/Screens/MoreTab/SettingsScreen.js:165
+msgid "Documentation"
+msgstr "Documentation"
+
+#: src/Screens/Board/EditBoardScreen.js:118
+msgid "Drag and drop to reorder your items."
+msgstr "Drag and drop to reorder your items."
+
+#: src/Screens/Board/BoardDetailsScreen.js:169
+#: src/Screens/EditProfileScreen.js:278
+msgid "Edit"
+msgstr "Edit"
+
+#: src/Components/Modals/MoreModal.js:45
+#: src/Screens/Board/EditBoardScreen.js:51
+msgid "Edit Board"
+msgstr "Edit Board"
+
+#: src/Screens/EditProfileScreen.js:254
+#: src/Screens/MoreTab/SettingsScreen.js:108
+msgid "Edit Microsite"
+msgstr "Edit Microsite"
+
+#: src/Screens/MoreTab/AccountSettingsScreen.js:88
+#: src/Screens/TeamInsights/TeamMember.js:35
+msgid "Email"
+msgstr "Email"
+
+#: src/Screens/Authentication/ForgotPasswordScreen.js:59
+#: src/Screens/Authentication/LoginScreen.js:48
+#: src/Screens/Authentication/SignUpScreen.js:82
+msgid "Email Address"
+msgstr "Email Address"
+
+#: src/strings.js:114
+msgid "Email Body"
+msgstr "Email Body"
+
+#: src/strings.js:115
+msgid "Email Sent!"
+msgstr "Email Sent!"
+
+#: src/strings.js:113
+msgid "Email Subject"
+msgstr "Email Subject"
+
+#: src/Screens/MoreTab/ChangeVATScreen.js:130
+msgid "Enter Business Type"
+msgstr "Enter Business Type"
+
+#: src/Screens/EditProfileScreen.js:353
+msgid "Enter Minisite Name"
+msgstr "Enter Minisite Name"
+
+#: src/strings.js:108
+msgid "Enter Tax Id"
+msgstr "Enter Tax Id"
+
+#: src/Screens/MoreTab/ChangePasswordScreen.js:108
+msgid "Enter your current password"
+msgstr "Enter your current password"
+
+#: src/Screens/Authentication/ForgotPasswordScreen.js:48
+msgid ""
+"Enter your email address and we will send you instructions to reset your "
+"password."
+msgstr ""
+"Enter your email address and we will send you instructions to reset your "
+"password."
+
+#: src/Screens/MoreTab/ChangeFirstNameScreen.js:68
+msgid "Enter your first name"
+msgstr "Enter your first name"
+
+#: src/Screens/MoreTab/ChangeLastNameScreen.js:67
+msgid "Enter your last name"
+msgstr "Enter your last name"
+
+#: src/Screens/MoreTab/ChangePasswordScreen.js:125
+msgid "Enter your new password"
+msgstr "Enter your new password"
+
+#: src/Screens/MoreTab/ChangePhoneNumberScreen.js:81
+msgid "Enter your phone number"
+msgstr "Enter your phone number"
+
+#: src/strings.js:71
+msgid "Error"
+msgstr "Error"
+
+#: src/strings.js:14
+msgid "Failed"
+msgstr "Failed"
+
+#: src/Containers/Marketing/Marketing.js:36
+msgid "February"
+msgstr "February"
+
+#: src/Screens/Authentication/SignUpScreen.js:57
+#: src/Screens/MoreTab/AccountSettingsScreen.js:62
+#: src/Screens/MoreTab/ChangeFirstNameScreen.js:57
+#: src/Screens/MoreTab/ChangeFirstNameScreen.js:61
+msgid "First Name"
+msgstr "First Name"
+
+#: src/Screens/Authentication/LoginScreen.js:83
+msgid "Forgot password?"
+msgstr "Forgot password?"
+
+#: src/Screens/Authentication/ForgotPasswordScreen.js:40
+msgid "Forgot your password?"
+msgstr "Forgot your password?"
+
+#: src/Screens/MoreTab/SettingsScreen.js:178 src/strings.js:103
+msgid "Frequently Asked Questions"
+msgstr "Frequently Asked Questions"
+
+#: src/strings.js:45
+msgid "Get Microsite Link"
+msgstr "Get Microsite Link"
+
+#: src/Components/Modals/MoreModal.js:63
+msgid "Hide from Microsite"
+msgstr "Hide from Microsite"
+
+#: src/strings.js:88
+msgid "Hold and drag to rearrange products"
+msgstr "Hold and drag to rearrange products"
+
+#: src/strings.js:51
+msgid "I Agree"
+msgstr "I Agree"
+
+#: src/strings.js:89
+msgid "I'm inviting you to become a social seller! Click link to join:"
+msgstr "I'm inviting you to become a social seller! Click link to join:"
+
+#: src/Screens/Authentication/ForgotPasswordScreen.js:101
+msgid ""
+"If your email is registered with MySephoraStore, then we have sent you "
+"instructions to reset your password."
+msgstr ""
+"If your email is registered with MySephoraStore, then we have sent you "
+"instructions to reset your password."
+
+#: src/Screens/MoreTab/SettingsScreen.js:196 src/strings.js:105
+msgid "Impressum"
+msgstr "Impressum"
+
+#: src/Components/Modals/RegisterForPayoneerModal.js:111
+msgid ""
+"In order to receive payment for your sales, you will need to create a "
+"Payoneer account. Please click Register to create your account with "
+"Payoneer. This will also allow you to connect an existing account if you "
+"already have a Payoneer account."
+msgstr ""
+"In order to receive payment for your sales, you will need to create a "
+"Payoneer account. Please click Register to create your account with "
+"Payoneer. This will also allow you to connect an existing account if you "
+"already have a Payoneer account."
+
+#: src/Screens/TeamInsights/TeamMember.js:22
+msgid "Inactive"
+msgstr "Inactive"
+
+#: src/strings.js:24
+msgid "Incomplete"
+msgstr "Incomplete"
+
+#: src/strings.js:87
+msgid "Instructions"
+msgstr "Instructions"
+
+#: src/strings.js:59
+msgid "Invalid Email Address"
+msgstr "Invalid Email Address"
+
+#: src/strings.js:19
+msgid "Invalid email and password"
+msgstr "Invalid email and password"
+
+#: src/Screens/MoreTab/SettingsScreen.js:131
+msgid "Invite"
+msgstr "Invite"
+
+#: src/strings.js:94
+msgid "Item"
+msgstr "Item"
+
+#: src/strings.js:95
+msgid "Items"
+msgstr "Items"
+
+#: src/Containers/Marketing/Marketing.js:35
+msgid "January"
+msgstr "January"
+
+#: src/Containers/Marketing/Marketing.js:41
+msgid "July"
+msgstr "July"
+
+#: src/Containers/Marketing/Marketing.js:40
+msgid "June"
+msgstr "June"
+
+#: src/Screens/MoreTab/AccountSettingsScreen.js:140
+#: src/Screens/MoreTab/UpdateLanguageScreen.js:28
+#: src/Screens/Onboarding/SelectLanguageScreen.js:38
+msgid "Language"
+msgstr "Language"
+
+#: src/strings.js:63
+msgid "Last 7 Days"
+msgstr "Last 7 Days"
+
+#: src/Screens/Authentication/SignUpScreen.js:69
+#: src/Screens/MoreTab/AccountSettingsScreen.js:78
+#: src/Screens/MoreTab/ChangeLastNameScreen.js:56
+#: src/Screens/MoreTab/ChangeLastNameScreen.js:60
+msgid "Last Name"
+msgstr "Last Name"
+
+#: src/Screens/MoreTab/SettingsScreen.js:68
+msgid "Link Payoneer Account"
+msgstr "Link Payoneer Account"
+
+#: src/Screens/MoreTab/SettingsScreen.js:210 src/strings.js:92
+msgid "Log Out"
+msgstr "Log Out"
+
+#: src/Screens/Authentication/LoginScreen.js:75
+msgid "Login"
+msgstr "Login"
+
+#: src/strings.js:80
+msgid ""
+"Looks like you are trying to delete all products on this board, please "
+"archive this board instead"
+msgstr ""
+"Looks like you are trying to delete all products on this board, please "
+"archive this board instead"
+
+#: src/Containers/Marketing/Marketing.js:37
+msgid "March"
+msgstr "March"
+
+#: src/Navigators/MainTabNavigator.js:76
+msgid "Marketing"
+msgstr "Marketing"
+
+#: src/strings.js:54
+msgid "Marketing Images"
+msgstr "Marketing Images"
+
+#: src/Containers/Marketing/Marketing.js:39
+msgid "May"
+msgstr "May"
+
+#: src/Screens/MessageDetailScreen.js:66 src/Screens/MessagesScreen.js:66
+msgid "Messages"
+msgstr "Messages"
+
+#: src/strings.js:97
+msgid "Microsite"
+msgstr "Microsite"
+
+#: src/strings.js:33
+msgid "Missing Fields"
+msgstr "Missing Fields"
+
+#: src/Navigators/MainTabNavigator.js:91
+#: src/Screens/MoreTab/SettingsScreen.js:90
+msgid "More"
+msgstr "More"
+
+#: src/Components/Modals/LeaderboardModal.js:26
+msgid "Most Clicks"
+msgstr "Most Clicks"
+
+#: src/Components/Modals/LeaderboardModal.js:48
+msgid "Most Sales"
+msgstr "Most Sales"
+
+#: src/Components/Modals/LeaderboardModal.js:37
+msgid "Most Shares"
+msgstr "Most Shares"
+
+#: src/Screens/Board/EditBoardScreen.js:91
+#: src/Screens/Board/SaveCuratedBoardScreen.js:59
+msgid "My Board Description"
+msgstr "My Board Description"
+
+#: src/Screens/EditProfileScreen.js:292
+msgid "My Display Name"
+msgstr "My Display Name"
+
+#: src/Screens/Board/EditBoardScreen.js:73
+#: src/Screens/Board/SaveCuratedBoardScreen.js:44
+msgid "My New Board"
+msgstr "My New Board"
+
+#: src/Navigators/MainTabNavigator.js:51
+msgid "My Store"
+msgstr "My Store"
+
+#: src/strings.js:72
+msgid "Network Error"
+msgstr "Network Error"
+
+#: src/Screens/Authentication/ResetPasswordScreen.js:50
+#: src/Screens/MoreTab/ChangePasswordScreen.js:118
+msgid "New Password"
+msgstr "New Password"
+
+#: src/strings.js:29
+msgid "Next"
+msgstr "Next"
+
+#: src/strings.js:9
+msgid "No"
+msgstr "No"
+
+#: src/Screens/Insights/CommissionHistoryScreen.js:103
+msgid "No Commissions to Report"
+msgstr "No Commissions to Report"
+
+#: src/strings.js:78
+msgid "No Items Selected"
+msgstr "No Items Selected"
+
+#: src/Screens/Board/BoardsScreen.js:142
+msgid "No Leaderboards Data is Available"
+msgstr "No Leaderboards Data is Available"
+
+#: src/Screens/Insights/SalesHistoryScreen.js:98
+msgid "No Sales to Report"
+msgstr "No Sales to Report"
+
+#: src/Screens/TeamInsights/TeamInsightReportsScreen.js:83
+msgid "No Team Members Yet"
+msgstr "No Team Members Yet"
+
+#: src/strings.js:99
+msgid "No content to display"
+msgstr "No content to display"
+
+#: src/Screens/MoreTab/AccountSettingsScreen.js:157
+#: src/Screens/MoreTab/SetPreferenceScreen.js:27
+msgid "Notification"
+msgstr "Notification"
+
+#: src/Containers/Marketing/Marketing.js:45
+msgid "November"
+msgstr "November"
+
+#: src/Screens/Insights/ProfileInsightScreen.js:81
+msgid "Number of Boards"
+msgstr "Number of Boards"
+
+#: src/Screens/Insights/ProfileInsightScreen.js:78
+msgid "Number of Clicks"
+msgstr "Number of Clicks"
+
+#: src/Screens/Insights/CommissionHistoryScreen.js:86
+#: src/Screens/Insights/ProfileInsightScreen.js:100
+#: src/Screens/Insights/SalesHistoryScreen.js:81
+msgid "Number of Sales"
+msgstr "Number of Sales"
+
+#: src/Screens/Insights/ProfileInsightScreen.js:75
+msgid "Number of Shares"
+msgstr "Number of Shares"
+
+#: src/Containers/Marketing/Marketing.js:44
+msgid "October"
+msgstr "October"
+
+#: src/Screens/MoreTab/AccountSettingsScreen.js:164 src/strings.js:11
+msgid "Off"
+msgstr "Off"
+
+#: src/strings.js:10
+msgid "Okay"
+msgstr "Okay"
+
+#: src/Screens/MoreTab/AccountSettingsScreen.js:162 src/strings.js:12
+msgid "On"
+msgstr "On"
+
+#: src/Screens/Insights/CommissionHistoryScreen.js:113
+msgid "Order ID"
+msgstr "Order ID"
+
+#: src/Screens/Insights/SalesHistoryScreen.js:109
+msgid "Ordered"
+msgstr "Ordered"
+
+#: src/Screens/TeamInsights/TeamInsightReportsScreen.js:71
+msgid "Override Commision"
+msgstr "Override Commision"
+
+#: src/Screens/Insights/CommissionHistoryScreen.js:21
+msgid "Paid"
+msgstr "Paid"
+
+#: src/Screens/Insights/CommissionHistoryScreen.js:121
+msgid "Paid date"
+msgstr "Paid date"
+
+#: src/Screens/Authentication/LoginScreen.js:63
+#: src/Screens/Authentication/SignUpScreen.js:97
+#: src/Screens/MoreTab/AccountSettingsScreen.js:99
+#: src/Screens/MoreTab/ChangePasswordScreen.js:97
+msgid "Password"
+msgstr "Password"
+
+#: src/strings.js:21
+msgid ""
+"Password must be between {MINIMUM_PASSWORD_LENGTH} and "
+"{MAXIMUM_PASSWORD_LENGTH} characters"
+msgstr ""
+"Password must be between {MINIMUM_PASSWORD_LENGTH} and "
+"{MAXIMUM_PASSWORD_LENGTH} characters"
+
+#: src/strings.js:20
+msgid "Password must contain a capital, a number and a symbol"
+msgstr "Password must contain a capital, a number and a symbol"
+
+#: src/strings.js:22
+msgid "Passwords much match"
+msgstr "Passwords much match"
+
+#: src/Screens/MoreTab/SettingsScreen.js:43
+msgid "Pending Payoneer Registration"
+msgstr "Pending Payoneer Registration"
+
+#: src/Screens/MoreTab/AccountSettingsScreen.js:117
+#: src/Screens/MoreTab/ChangePhoneNumberScreen.js:69
+#: src/Screens/MoreTab/ChangePhoneNumberScreen.js:73
+#: src/Screens/Onboarding/SetPhoneNumberScreen.js:30
+#: src/Screens/Onboarding/SetPhoneNumberScreen.js:40
+#: src/Screens/Onboarding/SetPhoneNumberScreen.js:52
+msgid "Phone Number"
+msgstr "Phone Number"
+
+#: src/Screens/Authentication/ForgotPasswordScreen.js:98
+msgid "Please check your email!"
+msgstr "Please check your email!"
+
+#: src/strings.js:34
+msgid "Please enter a board name."
+msgstr "Please enter a board name."
+
+#: src/strings.js:35
+msgid "Please enter a display name."
+msgstr "Please enter a display name."
+
+#: src/strings.js:26
+msgid "Please enter a phone number"
+msgstr "Please enter a phone number"
+
+#: src/strings.js:15
+msgid "Please enter an email address"
+msgstr "Please enter an email address"
+
+#: src/Screens/Onboarding/SetSocialMediaScreen.js:58
+msgid "Please enter at least one of your social media profiles"
+msgstr "Please enter at least one of your social media profiles"
+
+#: src/strings.js:25
+msgid "Please enter at least one social media profile"
+msgstr "Please enter at least one social media profile"
+
+#: src/strings.js:36
+msgid "Please enter your current password."
+msgstr "Please enter your current password."
+
+#: src/strings.js:17
+msgid "Please enter your first name"
+msgstr "Please enter your first name"
+
+#: src/strings.js:18
+msgid "Please enter your last name"
+msgstr "Please enter your last name"
+
+#: src/strings.js:37
+msgid "Please enter your new password."
+msgstr "Please enter your new password."
+
+#: src/strings.js:16
+msgid "Please enter your password"
+msgstr "Please enter your password"
+
+#: src/Screens/Onboarding/SetPhoneNumberScreen.js:43
+msgid "Please enter your phone number to stay connected."
+msgstr "Please enter your phone number to stay connected."
+
+#: src/Screens/MoreTab/DeleteAccountScreen.js:62
+msgid "Please give a brief descriptions for why you are leaving."
+msgstr "Please give a brief descriptions for why you are leaving."
+
+#: src/strings.js:74
+msgid ""
+"Please go to Settings and allow access to photos to share with Instagram."
+msgstr ""
+"Please go to Settings and allow access to photos to share with Instagram."
+
+#: src/strings.js:31
+msgid "Please select at least one image"
+msgstr "Please select at least one image"
+
+#: src/strings.js:79
+msgid "Please select the products you want to delete."
+msgstr "Please select the products you want to delete."
+
+#: src/strings.js:73
+msgid "Please try again later"
+msgstr "Please try again later"
+
+#: src/strings.js:52
+msgid "Please view and accept the required agreements."
+msgstr "Please view and accept the required agreements."
+
+#: src/strings.js:65
+msgid "Previous Month"
+msgstr "Previous Month"
+
+#: src/strings.js:66
+msgid "Previous Quarter"
+msgstr "Previous Quarter"
+
+#: src/Screens/MoreTab/DocumentationScreen.js:75 src/strings.js:101
+msgid "Privacy Policy"
+msgstr "Privacy Policy"
+
+#: src/strings.js:55
+msgid "Product Images"
+msgstr "Product Images"
+
+#: src/Screens/MoreTab/DocumentationScreen.js:63
+msgid "Program Agreement"
+msgstr "Program Agreement"
+
+#: src/Screens/Onboarding/ProgramRulesVideoScreen.js:50
+msgid "Program Overview"
+msgstr "Program Overview"
+
+#: src/Screens/Authentication/ResetPasswordScreen.js:63
+msgid "Re-enter your New Password"
+msgstr "Re-enter your New Password"
+
+#: src/Components/Modals/RegisterForPayoneerModal.js:122
+msgid "Register"
+msgstr "Register"
+
+#: src/Screens/Board/EditBoardScreen.js:114
+#: src/Screens/Board/ReorderBoardItemsScreen.js:86
+msgid "Reorder Items"
+msgstr "Reorder Items"
+
+#: src/Screens/Authentication/ResetPasswordScreen.js:30
+msgid "Reset Password"
+msgstr "Reset Password"
+
+#: src/Screens/Insights/SalesHistoryScreen.js:114
+msgid "Returned"
+msgstr "Returned"
+
+#: src/Components/Modals/BoardInsightModal.js:70
+#: src/Screens/Insights/ProfileInsightScreen.js:119
+#: src/Screens/TeamInsights/TeamMember.js:42
+msgid "Sales"
+msgstr "Sales"
+
+#: src/Screens/Insights/SalesHistoryScreen.js:61
+#: src/Screens/TeamInsights/TeamInsightReportsScreen.js:45
+msgid "Sales History"
+msgstr "Sales History"
+
+#: src/Screens/Insights/CommissionHistoryScreen.js:82
+#: src/Screens/Insights/ProfileInsightScreen.js:96
+#: src/Screens/Insights/SalesHistoryScreen.js:77
+msgid "Sales Overview"
+msgstr "Sales Overview"
+
+#: src/strings.js:28
+msgid "Save"
+msgstr "Save"
+
+#: src/Screens/Authentication/SignUpScreen.js:129
+msgid "See Privacy Policy"
+msgstr "See Privacy Policy"
+
+#: src/Screens/Board/DeleteBoardItemsScreen.js:40
+msgid "Select Items"
+msgstr "Select Items"
+
+#: src/Components/Modals/DateFilterModal.js:16
+#: src/Components/Modals/MarketingEventFilterModal.js:15
+msgid "Select Time Period"
+msgstr "Select Time Period"
+
+#: src/Screens/Board/ChangeCoverImageScreen.js:90
+msgid "Select up to 1 image"
+msgstr "Select up to 1 image"
+
+#: src/Screens/Board/ChangeCoverImageScreen.js:90
+msgid "Select up to 4 images"
+msgstr "Select up to 4 images"
+
+#: src/strings.js:112
+msgid "Send"
+msgstr "Send"
+
+#: src/Containers/Marketing/Marketing.js:43
+msgid "September"
+msgstr "September"
+
+#: src/Screens/Board/EditBoardScreen.js:101
+#: src/Screens/Board/SaveCuratedBoardScreen.js:69
+msgid "Set Board to Private"
+msgstr "Set Board to Private"
+
+#: src/Screens/Board/ChangeCoverImageScreen.js:89
+msgid "Set Cover Image"
+msgstr "Set Cover Image"
+
+#: src/Screens/ConsentScreen.js:60 src/Screens/ShareScreen.js:72
+msgid "Share Board"
+msgstr "Share Board"
+
+#: src/Components/Modals/BoardInsightModal.js:38
+msgid "Shares"
+msgstr "Shares"
+
+#: src/strings.js:76
+msgid "Shop My Favorites"
+msgstr "Shop My Favorites"
+
+#: src/strings.js:109
+msgid "Shopping Preferences"
+msgstr "Shopping Preferences"
+
+#: src/Components/Modals/MoreModal.js:61
+msgid "Show on Microsite"
+msgstr "Show on Microsite"
+
+#: src/Screens/Authentication/SignUpScreen.js:45
+#: src/Screens/Authentication/SignUpScreen.js:124
+#: src/Screens/Onboarding/OnboardingVideoScreen.js:49
+msgid "Sign Up"
+msgstr "Sign Up"
+
+#: src/Screens/Onboarding/SetPhoneNumberScreen.js:74
+msgid "Skip"
+msgstr "Skip"
+
+#: src/Screens/EditProfileScreen.js:368
+#: src/Screens/Onboarding/SetSocialMediaScreen.js:45
+msgid "Social Media"
+msgstr "Social Media"
+
+#: src/Screens/Onboarding/SetSocialMediaScreen.js:55
+msgid "Social Media Info"
+msgstr "Social Media Info"
+
+#: src/Screens/ConsentScreen.js:93
+msgid "Social Seller Program Agreement"
+msgstr "Social Seller Program Agreement"
+
+#: src/Screens/ShareScreen.js:192
+msgid "Social Seller Program Agreement*"
+msgstr "Social Seller Program Agreement*"
+
+#: src/strings.js:102
+msgid "Social Selling Agreement"
+msgstr "Social Selling Agreement"
+
+#: src/Screens/Onboarding/SelectStateScreen.js:27
+msgid "State"
+msgstr "State"
+
+#: src/strings.js:111
+msgid "Subject"
+msgstr "Subject"
+
+#: src/Screens/Onboarding/PrivacyAgreementsScreen.js:102
+msgid "Subscribe to MySephoraStore Newsletter?"
+msgstr "Subscribe to MySephoraStore Newsletter?"
+
+#: src/Screens/MoreTab/SettingsScreen.js:185
+msgid "Support"
+msgstr "Support"
+
+#: src/Screens/MoreTab/ChangeVATScreen.js:94
+msgid "Tax ID"
+msgstr "Tax ID"
+
+#: src/Screens/MoreTab/AccountSettingsScreen.js:182 src/strings.js:107
+msgid "Tax Information"
+msgstr "Tax Information"
+
+#: src/Screens/TeamInsights/TeamInsightReportsScreen.js:61
+msgid "Team Overview"
+msgstr "Team Overview"
+
+#: src/Screens/Insights/ProfileInsightScreen.js:146
+msgid "Teams"
+msgstr "Teams"
+
+#: src/Screens/Onboarding/PrivacyAgreementsScreen.js:30 src/strings.js:50
+msgid "Terms and Conditions"
+msgstr "Terms and Conditions"
+
+#: src/strings.js:81
+msgid "The selected products will be deleted."
+msgstr "The selected products will be deleted."
+
+#: src/Screens/Board/BoardDetailsScreen.js:231
+#: src/Screens/Board/PublicBoardDetailsScreen.js:161
+msgid "There are no items in this board."
+msgstr "There are no items in this board."
+
+#: src/strings.js:64
+msgid "This Month"
+msgstr "This Month"
+
+#: src/strings.js:67
+msgid "This Year"
+msgstr "This Year"
+
+#: src/strings.js:60
+msgid "This email address is already in our system"
+msgstr "This email address is already in our system"
+
+#: src/Containers/Share/ContactEnabledTexting.js:104
+msgid "To"
+msgstr "To"
+
+#: src/Screens/Insights/CommissionHistoryScreen.js:95
+#: src/Screens/Insights/ProfileInsightScreen.js:109
+#: src/Screens/Insights/SalesHistoryScreen.js:90
+msgid "Total Commission"
+msgstr "Total Commission"
+
+#: src/Screens/TeamInsights/TeamInsightReportsScreen.js:68
+msgid "Total Number of Sales"
+msgstr "Total Number of Sales"
+
+#: src/Screens/Insights/CommissionHistoryScreen.js:89
+#: src/Screens/Insights/ProfileInsightScreen.js:103
+#: src/Screens/Insights/SalesHistoryScreen.js:84
+#: src/Screens/TeamInsights/TeamInsightReportsScreen.js:65
+msgid "Total Sales"
+msgstr "Total Sales"
+
+#: src/Screens/MoreTab/DocumentationScreen.js:39
+msgid "Training"
+msgstr "Training"
+
+#: src/Components/Modals/BoardInsightModal.js:60
+msgid "Transactions"
+msgstr "Transactions"
+
+#: src/Screens/Board/SaveCuratedBoardScreen.js:66
+#: src/Screens/Insights/CommissionHistoryScreen.js:130
+msgid "Type"
+msgstr "Type"
+
+#: src/Screens/EditProfileScreen.js:362
+msgid "URL is not available"
+msgstr "URL is not available"
+
+#: src/strings.js:30
+msgid "Unable to save"
+msgstr "Unable to save"
+
+#: src/Screens/Insights/CommissionHistoryScreen.js:21
+msgid "Unpaid"
+msgstr "Unpaid"
+
+#: src/Screens/MoreTab/SettingsScreen.js:55
+msgid "Update Payoneer Account"
+msgstr "Update Payoneer Account"
+
+#: src/Screens/MoreTab/EligibleForVatScreen.js:55
+msgid "VAT"
+msgstr "VAT"
+
+#: src/Screens/MoreTab/ChangeVATScreen.js:106
+msgid "VAT Eligibility"
+msgstr "VAT Eligibility"
+
+#: src/Components/Modals/MoreModal.js:35
+msgid "View Board Insights"
+msgstr "View Board Insights"
+
+#: src/Screens/ProfileScreen.js:138
+msgid "View Dashboard"
+msgstr "View Dashboard"
+
+#: src/Screens/Insights/ProfileInsightScreen.js:138
+msgid "View your commision history"
+msgstr "View your commision history"
+
+#: src/Screens/Insights/ProfileInsightScreen.js:123
+msgid "View your sales history"
+msgstr "View your sales history"
+
+#: src/Screens/Insights/ProfileInsightScreen.js:149
+msgid "View your team details"
+msgstr "View your team details"
+
+#: src/strings.js:117
+msgid "We had a problem sending this email. Please Try Again Later"
+msgstr "We had a problem sending this email. Please Try Again Later"
+
+#: src/Components/Modals/WelcomeGuideModal.js:35
+#: src/Screens/MoreTab/DocumentationScreen.js:51 src/strings.js:104
+msgid "Welcome Guide"
+msgstr "Welcome Guide"
+
+#: src/Components/Modals/WelcomeGuideModal.js:25
+msgid ""
+"Welcome to MySephoraStore, please read the following guide to get started. "
+"Please note that this guide is always available in the Settings tab."
+msgstr ""
+"Welcome to MySephoraStore, please read the following guide to get started. "
+"Please note that this guide is always available in the Settings tab."
+
+#: src/Components/Modals/WelcomeGuideModal.js:22
+msgid "Welcome!"
+msgstr "Welcome!"
+
+#: src/strings.js:8
+msgid "Yes"
+msgstr "Yes"
+
+#: src/strings.js:48
+msgid "You can select up to 4 images, including up to 1 marketing image."
+msgstr "You can select up to 4 images, including up to 1 marketing image."
+
+#: src/strings.js:82
+msgid ""
+"You cannot delete this item from the board as it is shared with the "
+"customer."
+msgstr ""
+"You cannot delete this item from the board as it is shared with the "
+"customer."
+
+#: src/Containers/Board/SaveCuratedBoard.js:104 src/strings.js:40
+msgid "You will lose your curated products"
+msgstr "You will lose your curated products"
+
+#: src/strings.js:116
+msgid "You're email was sent. Happy Selling!"
+msgstr "You're email was sent. Happy Selling!"
+
+#: src/Screens/Authentication/ResetPasswordScreen.js:38
+msgid ""
+"Your password must be at least 8 characters long. Additionally, your "
+"password must include a number, a symbol and capital letter."
+msgstr ""
+"Your password must be at least 8 characters long. Additionally, your "
+"password must include a number, a symbol and capital letter."
+
+#: src/Components/Board.js:90 src/Components/Leaderboard.js:75
+#: src/Screens/Board/BoardDetailsScreen.js:96
+#: src/Screens/Board/PublicBoardDetailsScreen.js:92
+#: src/Screens/Insights/SalesHistoryScreen.js:128
+msgid "by"
+msgstr "by"
+
+#: src/Components/Board.js:173
+msgid "clicks"
+msgstr "clicks"
+
+#: src/Components/Board.js:180 src/Components/Leaderboard.js:131
+#: src/Components/Modals/BoardInsightProfileModal.js:102
+msgid "sales"
+msgstr "sales"
+
+#: src/Components/Board.js:167 src/Components/Leaderboard.js:116
+#: src/Components/Modals/BoardInsightProfileModal.js:64
+msgid "shares"
+msgstr "shares"
+
+#: src/Components/Modals/BoardInsightProfileModal.js:90
+msgid "transactions"
+msgstr "transactions"
+
+#: src/Screens/Insights/SalesHistoryScreen.js:137
+msgid "via"
+msgstr "via"
+
+#: src/Components/Leaderboard.js:124
+#: src/Components/Modals/BoardInsightProfileModal.js:77
+msgid "views"
+msgstr "views"
