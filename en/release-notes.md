@@ -1,11 +1,11 @@
-## Database > RDS for MySQL > Release Notes
+## Upcoming Products > RDS > Release Notes
 
-### 2021. 08. 25.
+### 2017.11.23
 
-#### Feature Updates
+#### panos
 
-* Changed the way of using a volume disk for backup and improved the performance
-* Improved the information synchronization per region when the service is enabled
+* TOAST Cloud Relational Database Service (RDS) 는 Relational Database 를 클라우드 환경에서 제공하는 상품입니다.
+* 복잡한 설정 없이 고가용성의 Relational Database 사용할 수 있습니다.
 
 #### Bug Fixes
 
@@ -95,7 +95,7 @@
 
 #### Bug Fixes
 
--  Fixed a bug where project members cannot be registered as a Notification member if there are 20 or more project members
+- Fixed a bug where project members cannot be registered as a Notification member if there are 20 or more project members
 
 ### 2021. 01. 19.
 
