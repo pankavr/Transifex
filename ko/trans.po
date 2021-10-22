@@ -23,11 +23,11 @@ msgstr ""
 
 #: plone/mls/core/profiles.zcml:56
 msgid "A Plone 4 uninstall profile for plone.mls.core."
-msgstr "Un profil de désinstallation de Plone 4 pour plone.mls.core."
+msgstr "Un profil de désinstallation de Plone 4 pour plone.mls.core.KO"
 
 #: plone/mls/core/profiles.zcml:66
 msgid "A Plone 5 uninstall profile for plone.mls.core."
-msgstr "Un profil de désinstallation de Plone 5 pour plone.mls.core."
+msgstr "Un profil de désinstallation de Plone 5 pour plone.mls.core.KO"
 
 #: plone/mls/core/profiles/plone4/actions.xml
 #: plone/mls/core/profiles/plone5/actions.xml
@@ -37,7 +37,7 @@ msgstr "Activer les paramètres MLS locaux"
 #: plone/mls/core/profiles/plone4/actions.xml
 #: plone/mls/core/profiles/plone5/actions.xml
 msgid "Activate the local MLS configuration."
-msgstr "Activez la configuration MLS locale."
+msgstr "Activez la configuration MLS locale.KO"
 
 #: plone/mls/core/interfaces.py:34
 msgid "Agency ID"
@@ -142,20 +142,20 @@ msgstr "plone.mls.core"
 
 #: plone/mls/core/profiles.zcml:56
 msgid "plone.mls.core - uninstall"
-msgstr "plone.mls.core - désinstaller"
+msgstr "plone.mls.core - désinstallerKO"
 
 #: plone/mls/core/profiles.zcml:17
 msgid "plone.mls.core base profile"
-msgstr "Profil de base plone.mls.core"
+msgstr "Profil de base plone.mls.coreKO"
 
 #: plone/mls/core/profiles.zcml:17
 msgid "plone.mls.core base profile."
-msgstr "Profil de base plone.mls.core."
+msgstr "Profil de base plone.mls.core.KO"
 
 #: plone/mls/core/profiles.zcml:46
 msgid "plone.mls.core base uninstall profile"
-msgstr "Profil de désinstallation de base plone.mls.core"
+msgstr "Profil de désinstallation de base plone.mls.coreKO"
 
 #: plone/mls/core/profiles.zcml:46
 msgid "plone.mls.core base uninstall profile."
-msgstr "Profil de désinstallation de base plone.mls.core."
+msgstr "Profil de désinstallation de base plone.mls.core.KO"
