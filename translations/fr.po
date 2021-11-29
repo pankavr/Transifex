@@ -1,0 +1,108 @@
+# English translations for survey.
+# 
+# Translators:
+# Panagiotis Kavrakis <pankav@transifex.com>, 2021
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2020-05-04 13:01+0000\n"
+"PO-Revision-Date: 2020-11-23 12:13+0000\n"
+"Last-Translator: Panagiotis Kavrakis <pankav@transifex.com>, 2021\n"
+"Language-Team: French (https://www.transifex.com/transifex-102/teams/110762/fr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+"Language: fr\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgctxt "{\"cxt\": \"survey_next\", \"id\": 280527177, \"checksum\": 2753412866}"
+msgid "Weiter"
+msgstr "test2"
+
+msgctxt "{\"cxt\": \"survey_prev\", \"id\": 280527177, \"checksum\": 483403627}"
+msgid "Zurück"
+msgstr "PrevFR"
+
+msgctxt "{\"cxt\": \"survey_done\", \"id\": 280527177, \"checksum\": 2954842005}"
+msgid "Fertig"
+msgstr "DoneFR"
+
+msgctxt "{\"cxt\": \"survey_title_html\", \"id\": 280527177}"
+msgid "Kundenzufriedenheit 2020 -&nbsp;fertig"
+msgstr "Kundenzufriedenheit 2020 -&nbsp;fertigFR"
+
+msgctxt "{\"cxt\": \"survey_ok\", \"id\": 280527177, \"checksum\": 3610695981}"
+msgid "OK"
+msgstr "OKFR"
+
+msgctxt "{\"cxt\": \"page_heading\", \"id\": 117382517, \"checksum\": 3979448284}"
+msgid "Einleitung"
+msgstr "IntroductionFR"
+
+msgctxt "{\"cxt\": \"page_heading\", \"id\": 117382518, \"checksum\": 1875572488}"
+msgid "DSGVO"
+msgstr "GDPRFR"
+
+msgctxt "{\"cxt\": \"page_heading\", \"id\": 117382519, \"checksum\": 3271043102}"
+msgid "Allgemein"
+msgstr "General QuestionsFR"
+
+msgctxt "{\"cxt\": \"page_heading\", \"id\": 117623590}"
+msgid "Zufriedenheit"
+msgstr "Customer SatisfactionFR"
+
+msgctxt "{\"cxt\": \"page_heading\", \"id\": 117382520, \"checksum\": 2438100505}"
+msgid "Teilaspekte"
+msgstr "Specific aspectsFR"
+
+msgctxt "{\"cxt\": \"page_heading\", \"id\": 117382521, \"checksum\": 1255276062}"
+msgid "Kommunikation"
+msgstr "CommunicationFR"
+
+msgctxt "{\"cxt\": \"page_heading\", \"id\": 117622050}"
+msgid "nicht ausreichend informiert"
+msgstr "not enough informationFR"
+
+msgctxt "{\"cxt\": \"page_heading\", \"id\": 117622115}"
+msgid "Kan&auml;le"
+msgstr "MediaFR"
+
+msgctxt "{\"cxt\": \"page_heading\", \"id\": 117382522, \"checksum\": 2319745855}"
+msgid "Dienstleistungen"
+msgstr "ServicesFR"
+
+msgctxt "{\"cxt\": \"page_heading\", \"id\": 117382523, \"checksum\": 3831145357}"
+msgid "Transport"
+msgstr "TransportFR"
+
+msgctxt "{\"cxt\": \"page_heading\", \"id\": 117382524, \"checksum\": 1454481973}"
+msgid "Ansprechpartner"
+msgstr "Contact partnerFR"
+
+msgctxt "{\"cxt\": \"page_heading\", \"id\": 117382525, \"checksum\": 727655950}"
+msgid "Feedback"
+msgstr "FeedbackFR"
+
+msgctxt "{\"cxt\": \"page_heading\", \"id\": 117382526, \"checksum\": 3477550270}"
+msgid "Ausblick"
+msgstr "FutureFR"
+
+msgctxt "{\"cxt\": \"page_heading\", \"id\": 117382527, \"checksum\": 2466443545}"
+msgid "Nachhaltigkeit"
+msgstr "SustainabilityFR"
+
+msgctxt "{\"cxt\": \"page_heading\", \"id\": 117382528, \"checksum\": 1376066085}"
+msgid "Abschluss"
+msgstr "ConclusionFR"
+
+msgctxt "{\"cxt\": \"page_heading\", \"id\": 117382529, \"checksum\": 2685149773}"
+msgid "Ende"
+msgstr "The endFR"
+
+msgctxt "{\"cxt\": \"page_heading\", \"id\": 117382529, \"checksum\": 2685149773}"
+msgid "End2"
+msgstr ""
