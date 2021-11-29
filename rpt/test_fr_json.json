@@ -1,0 +1,7 @@
+{
+"contact_title_label": {
+"string": "Titre",
+"character_limit": 10,
+"developer_comment": "Used as Contact attributes in contact panel\nUsed as Column headers for the table showing the contacts in contact directory"
+}
+}
