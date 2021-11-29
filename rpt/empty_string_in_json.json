@@ -1,0 +1,20 @@
+{"home_about_model": {
+"string": "About <%- application_name %> <%= application_name_extension %>",
+"character_limit": 81
+},
+"application_name": {
+"string": "Workspace",
+"character_limit": 18
+},
+"application_name_extension": {
+"string": ""
+},
+"about_version_model": {
+"string": "Version <%= version %>",
+"character_limit": 35
+},
+"about_version_htcc_model": {
+"string": "Web Services version <%= version %>",
+"character_limit": 49
+}
+}
