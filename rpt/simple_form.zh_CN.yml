@@ -2,6 +2,7 @@ zh_CN:
   simple_form:
     "yes": '是的'
     "no": '不'
+    "yesno": ''    
     required:
       text: '必需的'
       mark: '*'
