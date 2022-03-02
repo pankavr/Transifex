@@ -1,49 +1,11 @@
 git:
  filters:
-  - filter_type: file
-    # all supported i18n types: https://docs.transifex.com/formats
-    file_format: UNICODEPROPERTIES
-    source_language: en
-    source_file: 'rpt/ProductLedger_multi.properties'
-    # path expression to translation files, must contain <lang> placeholder
-    translation_files_expression: 'rpt/ProductLedger_multi_<lang>.properties'
-
-  - filter_type: file
-    file_format: PO
-    source_language: en
-    source_file: 'translation_en.po'
-    translation_files_expression: 'translations/<lang>.po'
-
-  - filter_type: file
-    file_format: YML
-    source_language: en
-    source_file: 'rpt/simple_form.en.yml'
-    translation_files_expression: 'rpt/simple_form.<lang>.yml'
-
-  - filter_type: file
-    file_format: YML
-    source_language: en
-    source_file: 'rpt/for_use_srwebapp_admin_en.yml'
-    translation_files_expression: 'rpt/for_use_srwebapp_admin_<lang>.yml'
-
-  - filter_type: file
-    file_format: STRUCTURED_JSON
-    source_language: en
-    source_file: 'rpt/test_json.json'
-    translation_files_expression: 'rpt/test_<lang>_json.json'
-
-  - filter_type: file
-    file_format: KEYVALUEJSON
-    source_language: en
-    source_file: 'rpt/test_en.json'
-    translation_files_expression: 'rpt/test_<lang>.json'
-
-  - filter_type: file
-    file_format: STRUCTURED_JSON
-    source_language: en
-    source_file: 'rpt/empty_string_in_json.json'
-    translation_files_expression: 'rpt/empty_string_in_json_<lang>.json'
-
+    - filter_type: file
+      file_format: STRUCTURED_JSON
+      source_language: en
+      source_file_extension: json
+      source_file: src/localization/content.json
+      translation_files_expression: src/localization/<lang>/content.json
  settings:
     pr_branch_name: sjr_translations_<br_unique_id>
     language_mapping:
