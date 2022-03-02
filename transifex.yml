@@ -43,3 +43,11 @@ git:
     source_language: en
     source_file: 'rpt/empty_string_in_json.json'
     translation_files_expression: 'rpt/empty_string_in_json_<lang>.json'
+
+settings:
+    pr_branch_name: sjr_translations_<br_unique_id>
+    language_mapping:
+      es_419: es-419
+      pt_BR: pt-br
+      zh_CN: zh-cn
+      zh_TW: zh-tw
