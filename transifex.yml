@@ -1,6 +1,6 @@
 git:
  filters:
-  - filter_type: file
+  - filter_type: dir
     # all supported i18n types: https://docs.transifex.com/formats
     file_format: STRUCTURED_JSON
     source_language: en
