@@ -2,7 +2,7 @@ git:
  filters:
   - filter_type: file
     # all supported i18n types: https://docs.transifex.com/formats
-    file_format: UNICODEPROPERTIES
+    file_format: STRUCTURED_JSON
     source_language: en
     source_file: 'rpt/ProductLedger_multi.properties'
     # path expression to translation files, must contain <lang> placeholder
