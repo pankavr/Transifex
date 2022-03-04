@@ -7,5 +7,5 @@ git:
     source_language: en
     source_file_dir: Samedis.care/Localization
     # path expression to translation files, must contain <lang> placeholder
-    translation_files_expression: 'Samedis.care/Localization/<lang>/lproj/Localizable.strings'
+    translation_files_expression: 'Samedis.care/Localization/<lang>.lproj/Localizable.strings'
 
