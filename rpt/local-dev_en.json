@@ -1,0 +1,18 @@
+{
+  "actions": {
+    "info-link": "To the Samedis.care website",
+    "inventory": "Open inventory",
+    "show-details": "Show details (login required)",
+    "link-inventory": "Link inventory"
+  },
+  "briefed": "Has training",
+  "documents": "Documents",
+  "image": "Images",
+  "owner": "Owner",
+  "qr-not-linked": {
+    "title": "QR code is not assigned to a device.",
+    "help-texts": [
+      "This QR code does not refer to any inventory (device). You can assign this QR code to an existing inventory (e.g. from an import for the initial inventory) or create a new device."
+    ]
+  }
+}
