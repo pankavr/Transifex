@@ -1,0 +1,18 @@
+{
+  "actions": {
+    "info-link": "Vers le site Samedis.care",
+    "inventory": "Inventaire ouvert",
+    "show-details": "Afficher les détails (connexion requise)",
+    "link-inventory": "Inventaire de liens"
+  },
+  "briefed": "A une formation",
+  "documents": "Documents",
+  "image": "Images",
+  "owner": "Propriétaire",
+  "qr-not-linked": {
+    "title": "Le code QR n&#39;est pas attribué à un appareil.",
+    "help-texts": [
+      "Ce code QR ne fait référence à aucun inventaire (appareil). Vous pouvez affecter ce code QR à un inventaire existant (par exemple à partir d&#39;une importation pour l&#39;inventaire initial) ou créer un nouvel appareil."
+    ]
+  }
+}
