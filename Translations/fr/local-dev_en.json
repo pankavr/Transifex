@@ -1,8 +1,8 @@
 {
   "actions": {
-    "info-link": "Vers le site Samedis.care",
-    "inventory": "Inventaire ouvert",
-    "show-details": "Afficher les détails (connexion requise)",
+    "info-link": "Vers le site Samedis.care!",
+    "inventory": "Inventaire ouvert!",
+    "show-details": "Afficher les détails (connexion requise)!",
     "link-inventory": "Inventaire de liens"
   },
   "briefed": "A une formation",
