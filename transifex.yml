@@ -1,6 +1,6 @@
 git:
  filters:
-  - filter_type: dir
+  - filter_types: dir
     # all supported i18n types: https://docs.transifex.com/formats
     file_format: STRINGS
     source_file_extension: strings
